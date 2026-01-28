@@ -1,10 +1,8 @@
-# InsightBoard-Smart-Visual-Analytics-Using-Bricks
-
 # InsightCanvas-AI-Driven-Data-Visualization-Board-with-Bricks
 
 # Live project link : 
-* https://app.thebricks.com/file/c125bb4a-325c-4045-b84f-d7216b9ed2ee/9263@c4518ae7-50a7-4700-a4eb-5bb011f6c125:0/visual-board
-* https://app.thebricks.com/file/02a38dca-4fa1-4a79-b2f8-b1e1b28b47f8
+* https://app.thebricks.com/file/4f62f5a2-959a-46fc-abc5-b22015b01345/8653@df18081a-a3ee-4bbf-82ea-e327e929784f:0/visual-board
+* https://app.thebricks.com/file/e7cb8f21-a7f3-4daa-bfdb-de63b567256e
 
 # Screenshots:
 <img width="1920" height="1020" alt="Screenshot 2026-01-28 163924" src="https://github.com/user-attachments/assets/050ae195-024f-4f32-bc02-c5b835fa9451" />
